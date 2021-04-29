@@ -5,8 +5,8 @@
 <!-- <a href="https://www.linkedin.com/in/zamranxd/">
   <img align="left" alt="Zamran's LinkdeIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a> -->
-<a href="https://www.instagram.com/zamranxd/">
-  <img align="left" alt="Zamran's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<a href="https://www.instagram.com/manu.cardenas.castro/">
+  <img align="left" alt="Zamran's Instagram" width="24px" color="blue"src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <!-- <a href="https://www.facebook.com/ZamranxD">
   <img align="left" alt="Zamran's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
