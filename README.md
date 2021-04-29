@@ -1,14 +1,12 @@
 
 
 <h3> Hey 👋, I'm Manuel!</h3>
-
-<br>
 <br>
 
 Hi there, I'm **Manuel Cárdenas**, a ✏️ **Graphig Designer** 🚀 from Colombia.
-
-  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+  
+<br>
 **About Me!**
 
 - 🚀 Graphic designer specialized in UI design and Frontend development of web pages
