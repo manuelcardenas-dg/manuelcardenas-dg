@@ -28,9 +28,10 @@ Hi there, I'm **Manuel Cárdenas**, a ✏️ **Graphig Designer** 🚀 from Colo
 
 **Tools:**  
 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/adobe/illustrator.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="30" src="https://user-images.githubusercontent.com/80920532/116622339-23c7dd00-a90a-11eb-8ae9-88857f9d47dd.png"></code>
+<code><img height="30" src="https://user-images.githubusercontent.com/80920532/116622338-23c7dd00-a90a-11eb-9b4b-669c5f01f1e1.png"></code>
+<code><img height="30" src="https://user-images.githubusercontent.com/80920532/116622338-23c7dd00-a90a-11eb-9b4b-669c5f01f1e1.png"></code>
+<code><img height="30" src="https://user-images.githubusercontent.com/80920532/116622335-232f4680-a90a-11eb-82c7-a01a3a81e84c.png"></code>
 
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=manuelcardenas-dg&show_icons=true&hide_border=true&count_private=true&theme=algolia&icon_color=fad000" alt="Manuel GitHub Stats">
