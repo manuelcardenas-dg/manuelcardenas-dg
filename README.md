@@ -32,7 +32,7 @@ About Me!
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-<img src="https://github-readme-stats.vercel.app/api?username=manuelcardenas-dg&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Manuel GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=manuelcardenas-dg&show_icons=true&hide_border=true&count_private=true&theme=radical&icon_color=fad000" alt="Manuel GitHub Stats">
 
 <p>Follow me:</p>
 <a href="https://www.instagram.com/manu.cardenas.castro/">
