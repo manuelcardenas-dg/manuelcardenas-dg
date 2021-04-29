@@ -6,9 +6,9 @@
   <img align="left" alt="Zamran's LinkdeIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a> -->
 
-<a align="left href="#"> Follow me: </a>
+<a align="left" href="#"> Follow me: </a>
 
-<a href="https://www.instagram.com/manu.cardenas.castro/">
+<a align="left" href="https://www.instagram.com/manu.cardenas.castro/">
   <img align="left" alt="Zamran's Instagram" width="24px" color="blue"src="https://user-images.githubusercontent.com/80920532/116614735-eeb68d00-a8ff-11eb-9d1c-c0a60cafb156.png"/>
 </a>
 <!-- <a href="https://www.facebook.com/ZamranxD">
