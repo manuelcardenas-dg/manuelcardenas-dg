@@ -8,7 +8,7 @@ Hi there, I'm **Manuel Cárdenas**, a ✏️ **Graphig Designer** 🚀 from Colo
 <br>
 <br>
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-About Me!
+** About Me!**  
 
 - 🚀 Graphic designer specialized in UI design and Frontend development of web pages
 - 👽 Currently I am consolidating advancing in my knowledge in javascript
@@ -17,6 +17,8 @@ About Me!
 - 📫 Email me at [manuelcardenas.dg@gmail.com](mailto:manuelcardenas.dg@gmail.com).
 - 🌎 Visit my [Website](https://www.manuelcardenas.com.co/) to see my portfolio****
 
+<br>
+<br>
 
 **Languages and Tools:**  
 
