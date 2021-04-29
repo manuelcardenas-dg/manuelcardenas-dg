@@ -14,8 +14,8 @@ Hi there, I'm **Manuel Cárdenas**, a ✏️ **Graphig Designer** 🚀 from Colo
 - 👽 Currently I am consolidating advancing in my knowledge in javascript
 - 🌌 My interests are the automation of web design creation
 - 💼 I am pursuing a diplomat in website and mobile application development
-- 📫 Email me at [manuelcardenas.dg@gmail.com](mailto:manuelcardenas.dg@gmail.com).
-- 🌎 Visit my [Website](https://www.manuelcardenas.com.co/) to see my portfolio****
+- 📫 Email me at [manuelcardenas.dg@gmail.com](mailto:manuelcardenas.dg@gmail.com)
+- 🌎 Visit my [Website](https://www.manuelcardenas.com.co/) to see my portfolio
 
 <br>
 <br>
