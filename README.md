@@ -15,18 +15,17 @@
 <br>
 
 Hi there, I'm **Manuel Cárdenas**, a ✏️ **Graphig Designer** 🚀 from Colombia.
- <!-- Currently, I'm a Community Team Member 🙍🏽‍♂️ [@CallmeMehdi](https://github.com/CallmeMehdi), Kaggler 👨🏽‍💻 [@Kaggle](https://www.kaggle.com/mehdimabrouki), and an Artificial Intelligence intern 👨🏽‍💼.  -->
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 **About Me!**
 
-- 👨🏽‍💻 I currently work as a freelance
-- 🌱 Currently I am consolidating advancing in my knowledge in javascript
-- 🤔 My interests are the automation of web design creation
-- 💼 I am pursuing a diploma in website and mobile application development
+- 🚀 Graphic designer specialized in UI design and Frontend development of web pages
+- 👽 Currently I am consolidating advancing in my knowledge in javascript
+- 🌌 My interests are the automation of web design creation
+- 💼 I am pursuing a diplomat in website and mobile application development
 - 📫 Email me at [manuelcardenas.dg@gmail.com](mailto:manuelcardenas.dg@gmail.com).
-- 📝 Visit my [Website](https://www.manuelcardenas.com.co/) to see my portfolio****
+- 🌎 Visit my [Website](https://www.manuelcardenas.com.co/) to see my portfolio****
 
 
 **Languages and Tools:**  
