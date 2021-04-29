@@ -1,12 +1,8 @@
 
 
-<h3 title="hehehe"> Hey 👋, I'm Manuel!</h3>
+<h3> Hey 👋, I'm Manuel!</h3>
 
-<!-- <a href="https://www.linkedin.com/in/zamranxd/">
-  <img align="left" alt="Zamran's LinkdeIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a> -->
-
-<div display="flex">
+<div style="display="flex">
   <p>Follow me:</p>
   <a href="https://www.instagram.com/manu.cardenas.castro/">
     <img align="left" alt="Manuel Instagram" width="24px" src="https://user-images.githubusercontent.com/80920532/116614735-eeb68d00-a8ff-11eb-9d1c-c0a60cafb156.png"/>
