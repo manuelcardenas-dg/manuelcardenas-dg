@@ -2,17 +2,6 @@
 
 <h3> Hey 👋, I'm Manuel!</h3>
 
-<div style="display=flex">
-  <p>Follow me:</p>
-  <a href="https://www.instagram.com/manu.cardenas.castro/">
-    <img alt="Manuel Instagram" width="24px" src="https://user-images.githubusercontent.com/80920532/116614735-eeb68d00-a8ff-11eb-9d1c-c0a60cafb156.png"/>
-  </a>
-</div>  
-  
-  
-<!-- <a href="https://www.facebook.com/ZamranxD">
-  <img align="left" alt="Zamran's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a> -->
 <br>
 <br>
 
@@ -46,4 +35,12 @@ Hi there, I'm **Manuel Cárdenas**, a ✏️ **Graphig Designer** 🚀 from Colo
 
 <img src="https://github-readme-stats.vercel.app/api?username=ZamranxD&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Zamran's GitHub Stats">
 
-⭐️ From [ZamranxD](https://github.com/ZamranxD)
+<div style="align=left;">
+  <p>Follow me:</p>
+  <a href="https://www.instagram.com/manu.cardenas.castro/">
+    <img alt="Manuel Instagram" width="24px" src="https://user-images.githubusercontent.com/80920532/116614735-eeb68d00-a8ff-11eb-9d1c-c0a60cafb156.png"/>
+  </a>
+</div>  
+
+
+🍪 From [Manuel](https://github.com/manuelcardenas-dg)
