@@ -34,7 +34,7 @@ Hi there, I'm **Manuel Cárdenas**, a ✏️ **Graphig Designer** 🚀 from Colo
 <code><img height="30" src="https://user-images.githubusercontent.com/80920532/116622335-232f4680-a90a-11eb-82c7-a01a3a81e84c.png"></code>
 
 <br>
-<img src="https://github-readme-stats.vercel.app/api?username=manuelcardenas-dg&show_icons=true&hide_border=true&count_private=true&theme=ayu-mirage&icon_color=fad000" alt="Manuel GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=manuelcardenas-dg&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" alt="Manuel GitHub Stats">
 
 <p>Follow me:</p>
 <a href="https://www.instagram.com/manu.cardenas.castro/">
