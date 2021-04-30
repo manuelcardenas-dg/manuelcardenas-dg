@@ -3,7 +3,7 @@
 <h3> Hey 👋, I'm Manuel!</h3>
 <br>
 
-Hi there, I'm **Manuel Cárdenas**, a ✏️ **Graphig Designer** 🚀 from Colombia.
+Hi there, I'm **Manuel Cárdenas**, a ✏️ **Graphig Designer** ✏️ from Colombia.
 <br>
 <br>
 <br>
