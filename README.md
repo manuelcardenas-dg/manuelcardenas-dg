@@ -7,7 +7,7 @@ Hi there, I'm **Manuel Cárdenas**, a ✏️ **Graphig Designer** 🚀 from Colo
 <br>
 <br>
 <br>
-<img align="right" alt="GIF" width="450px" src="https://user-images.githubusercontent.com/80920532/116635081-75309600-a923-11eb-868a-e88f503e4f3e.gif" />
+<img align="right" alt="GIF" width="450px" src="https://user-images.githubusercontent.com/80920532/116635095-7c57a400-a923-11eb-8550-5f1ad8f12c8b.gif" />
 ** About Me!**  
 
 - 🚀 Graphic designer specialized in UI design and Frontend development of web pages
