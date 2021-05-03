@@ -42,4 +42,4 @@ Hi there, I'm **Manuel Cárdenas**, a ✏️ **Graphig Designer** ✏️ from Co
 </a> 
 <br>
 <br>
-🍪 From [Manuel](https://github.com/manuelcardenas-dg)
+🍪 From [Manuel Cárdenas](https://github.com/manuelcardenas-dg)
